@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+echo "---> running go detect command"
+
+~/go/bin/appd_buildpack_detect
