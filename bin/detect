@@ -2,4 +2,4 @@
 
 echo "---> running go detect command"
 
-~/go/bin/appd_buildpack_detect
+${GOPATH}/bin/buildpack_detect
